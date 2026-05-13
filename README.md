@@ -341,17 +341,4 @@ separators: ["\n\n", "\n", "。", "！", "？", "!", "?", " ", ""]
 - **[API 文档](./backend/openapi.json)**：后端 API 接口文档
 - **[用户服务 API](./DjangoUserService/api.md)**：用户服务 API 文档
 
-## Star History
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=RMA-MUN/LangChain-RAG-FastAPI-Service&type=date&theme=dark&legend=top-left" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=RMA-MUN/LangChain-RAG-FastAPI-Service&type=date&legend=top-left" />
-  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=RMA-MUN/LangChain-RAG-FastAPI-Service&type=date&legend=top-left" />
-</picture>
-
-## 联系方式
-
-如有任何问题或建议，欢迎在 GitHub 提交 issues 或联系作者：
-
-- Email: n3032747608@163.com
-- QQ: 3032747608
